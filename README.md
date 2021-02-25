@@ -51,3 +51,8 @@ Run code by type these following command in terminal that open in this folder
 ```
 $ py Number04_Basic_Web_Crawler_Part_1.py
 ```
+## 4.2. Extract Data from Source HTML (Optional)
+Run code by type these following command in terminal that open in this folder
+```
+$ py Number04_Basic_Web_Crawler_Part_2.py
+```
