@@ -8,7 +8,7 @@ This repository is created for The Internship program.
 * [Digit Hangman](#3-digit-hangman)
 * [Basic Web Crawler](#4-basic-web-crawler)
 	* [Extract Data from Source HTML](#41-extract-data-from-source-html)
-	* [Extract Data from Source HTML (optional)](#42-extract-data-from-source-html(optional))
+	* [Extract Data from Source HTML (optional)](#42-extract-data-from-source-html-optional)
 
 > Note: From problem number 1 to number 3 they will have 2 files. First one is the file that have `Requirement_Matched` in the name will not include explaination message. And the second one in the file that does not have `Requirement_Matched` will include the explaination message.
 # 1. Sorting Acronyms
