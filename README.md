@@ -1,4 +1,4 @@
-# The_Internship_2021 **English Version**
+# The_Internship_2021
 
 This repository is created for The Internship program.
 
