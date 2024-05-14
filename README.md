@@ -1,6 +1,6 @@
 # The_Internship_2021
 
-This repository is created for The Internship program.
+This repository hass been created for The Internship program.
 
 #Table of contents
 * [Sorting Acronyms](#1-sorting-acronyms)
